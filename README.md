@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sakethb.vangipuram@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YuVNH4yCPkOLmyG0duD64OPmrdCTwtnH/edit?usp=sharing&ouid=114744872571552278872&rtpof=true&sd=true](https://docs.google.com/document/d/1YuVNH4yCPkOLmyG0duD64OPmrdCTwtnH/edit?usp=sharing&ouid=114744872571552278872&rtpof=true&sd=true)
+- 📄 Know about my experiences [CV/Resume](https://docs.google.com/document/d/1YuVNH4yCPkOLmyG0duD64OPmrdCTwtnH/edit?usp=sharing&ouid=114744872571552278872&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
