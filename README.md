@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently working on ChronoWrite (check my repo)<br>I'm currently learning React<br>I'm looking to collaborate on Web Dev Projects<br>Ask me about react, redux, express, and mongoDB (MERN Stack)<br>IWhen I'm not online, you'll likely find me at the gym.
+🔭 I'm currently working on ChronoWrite (check my repo)<br>🪴 I'm currently learning React<br>🧑‍🤝‍🧑 I'm looking to collaborate on Web Dev Projects<br>💭 Ask me about react, redux, express, and mongoDB (MERN Stack)<br>⚡ IWhen I'm not online, you'll likely find me at the gym.
 
 
 ## 🌐 Connect with me::
